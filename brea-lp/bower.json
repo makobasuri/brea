@@ -1,0 +1,21 @@
+{
+  "name": "brea-lp",
+  "homepage": "https://github.com/makobasuri/brea",
+  "authors": [
+    "makobasuri <makobasuri@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "normalize-css": "^4.1.1"
+  }
+}

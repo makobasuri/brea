@@ -1,0 +1,38 @@
+{
+  "name": "brea",
+  "version": "1.0.0",
+  "description": "This is my first readme. Amazing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makobasuri/brea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makobasuri/brea/issues"
+  },
+  "homepage": "https://github.com/makobasuri/brea#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "browser-sync": "^2.13.0",
+    "cssnext": "^1.8.4",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "precss": "^1.4.0"
+  },
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
+}
